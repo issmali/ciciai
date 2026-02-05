@@ -7,7 +7,7 @@ Cici AI adalah aplikasi web berbasis chat yang berfungsi sebagai asisten cerdas.
 ## Demo
 
 > Masukkan URL demo jika tersedia, misal:  
-> [Cici AI Demo](https://your-demo-url.com)
+> [Cici AI Demo](https://ciciai.netlify.app/)
 
 ---
 
